@@ -1,0 +1,4 @@
+Flask
+langchain-core
+langchain-ollama
+langgraph
